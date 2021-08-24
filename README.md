@@ -1,4 +1,4 @@
--👋 Hi, I’m Andrew Walker
+- 👋 Hi, I’m Andrew Walker
 - I am currently a second year Data Science Student at William and Mary.
 - 📫 How to reach me - awalker2002@gmail.com
 
