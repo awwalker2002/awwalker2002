@@ -4,7 +4,7 @@
 
 This is a repository to show some of the various Data Science and Computer Science related projects I have completed.
 
-<a href="https://awwalker2002.github.io/" target="_blank">Predicting the NBA Finals</a>: Analyzed NBA team statistics to predict the 2023 NBA finals. Created visualizations to convey my findings.
+<a href="https://awwalker2002.github.io/" target="_blank">Predicting the NBA Finals</a>: Analyzed NBA team statistics to attempt to predict the 2023 NBA finals. Created visualizations to convey my findings.
 
 <a href="https://public.tableau.com/app/profile/andrew.walker4268/viz/UndergraduateEnrollmentTrends_16820989008550/UndergraduateEnrollmentTrends" target="_blank">Undergraduate Enrollment Trends</a>: Created Tableau dashboard showing undergraduate enrollment trends at William & Mary.
 
