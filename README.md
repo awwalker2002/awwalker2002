@@ -1,5 +1,5 @@
 - Hi, I’m Andrew Walker
-- I am currently a third-year Data Science Student at William and Mary.
+- I am currently a rising fourth-year Data Science Student at William and Mary.
 - You can reach me by email at: awalker2002@gmail.com, or by phone at: 571-296-3709
 
 This is a repository to show some of the various Data Science and Computer Science related projects I have completed.
