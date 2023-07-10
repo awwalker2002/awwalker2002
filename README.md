@@ -4,6 +4,8 @@
 
 This is a repository to show some of the various Data Science and Computer Science related projects I have completed.
 
+<a href="https://awwalker2002.github.io/" target="_blank">Predicting the NBA Finals</a>: Analyzed NBA team statistics to predict the 2023 NBA finals. Created visualizations to convey my findings.
+
 <a href="https://public.tableau.com/app/profile/andrew.walker4268/viz/UndergraduateEnrollmentTrends_16820989008550/UndergraduateEnrollmentTrends" target="_blank">Undergraduate Enrollment Trends</a>: Created Tableau dashboard showing undergraduate enrollment trends at William & Mary.
 
 [Classification with Multiple Classes and Natural Language Processing](https://github.com/awwalker2002/awwalker2002/blob/b4a86f64bfba6a393683276e65fefa0764f69d78/Classification%20with%20Multiple%20Classes%20and%20Natural%20Language%20Processing.ipynb): Practiced using NLP Classification models to predict labels with high accuracy. I pre-processed the data and ran various models including Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Support Vector Machine to determine which model had the highest accuracy.
