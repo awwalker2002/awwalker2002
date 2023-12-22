@@ -1,8 +1,10 @@
 - Hi, I’m Andrew Walker
-- I am currently a rising fourth-year Data Science Student at William and Mary.
+- I am currently a fourth-year Data Science Student at William and Mary.
 - You can reach me by email at: awwalker@wm.edu, or by phone at: 571-296-3709
 
 This is a repository to show some of the various Data Science and Computer Science related projects I have completed.
+
+<a href="https://github.com/awwalker2002/FantasyFootballAnalysis/tree/main" target="_blank">Fantasy Football Analysis</a>: Created a Streamlit application to provide tailored advice to users of the Sleeper fantasy football platform.
 
 <a href="https://awwalker2002.github.io/" target="_blank">Predicting the NBA Finals</a>: Analyzed NBA team statistics to predict the 2023 NBA finals. Created visualizations to convey my findings.
 
